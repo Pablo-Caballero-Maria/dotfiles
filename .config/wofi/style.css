@@ -1,0 +1,27 @@
+window {
+    background-color: rgba(0, 0, 0, 0.4);
+    border-radius: 15px;
+}
+
+#input {
+    background-color: rgba(0, 0, 0, 0.6);
+    margin: 10px;
+    border-radius: 15px;
+    border: 0;
+    outline: none;
+    box-shadow: 0 0 0 0;
+    color: white;
+}
+
+#entry {
+    padding: 8px;
+}
+
+#entry:selected {
+    background-color: rgba(0, 0, 0, 0);
+    outline: none;
+}
+
+#entry image {
+    margin: 6px;
+}
